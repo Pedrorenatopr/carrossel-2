@@ -27,7 +27,7 @@
 
 .slider label {
 	background-color: transparent;
-	bottom: 10px;
+	bottom: 0;
 	cursor: pointer;
 	display: block;
 	height: 60px;
