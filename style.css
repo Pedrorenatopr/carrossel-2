@@ -38,14 +38,13 @@
 }
 
 .slider li:nth-child(1) label {
-	left: 249px;
-    bottom: 15px;
+	left: 270px;
     background-image: url(seta-transparente.svg);
     background-repeat: no-repeat;
 }
 
 .slider li:nth-child(2) label {
-	left: 295px;
+	left: 320px;
     background-image: url(seta-verde.svg);
     background-repeat: no-repeat;
 }
@@ -75,12 +74,12 @@
     }
 
     .slider li:nth-child(1) label {
-        left: 145px;
+        left: 155px;
         background-size: 25px;
     }
     
     .slider li:nth-child(2) label {
-        left: 180px;
+        left: 188px;
         background-size: 25px;
     }
 
